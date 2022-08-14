@@ -4,3 +4,5 @@ Esta viviendo en Argentina
 hoy hablamos de su historia.
 
 En el video se más gordo, pero en realidad no es tan gordo
+
+hoy es un analista funcional
